@@ -1,10 +1,9 @@
 ## Data Description
-##### Vishakapatnam location data
-The data on the pincodes of India can be found [here](https://www.kaggle.com/sahilgandhi94/indian-pincodes#india%20pincode%20final.csv). The csv file has following features
+##### India Cities Data
+The data on the top Cities of India can be found [here](https://github.com/Gautham000/Coursera_Capstone/blob/master/Final%20capstone/India%20top%20cities.csv). The csv file has following features
 
-1.Pin code :- Contains the pins codes of the areas.\
-2.City :- To which city does the pin code belongs to.\
-3.District:- To which Distric does the City belongs to.\
-4.State:- To which State does the Distric belongs to.
+1.City :- Contains the name of the City.\
+2.Population :- Contains the population of the city.\
+3.State:- To which State does the City belongs to.\
 
-The cities in Vishakapatnam will be extracted from this csv file. The extracted dataset is used in conjunction with the Foursquare API.
+The cities in India will be extracted from this csv file. The extracted dataset is used in conjunction with the Foursquare API.
