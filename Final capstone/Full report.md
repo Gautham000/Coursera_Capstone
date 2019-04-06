@@ -11,12 +11,12 @@ __6. Conclusion__
 
 ## Introduction
 
-__Identifing the popular food cuisines in the top cities of India as well as to identify the similarities between the food cuisines of these cities.__
+__Identifing the popular food cuisines in the top cities of India as well as to identify the similarities between the food cuisines of these cities.__\
 How does the types of cuisines in India vary? Are the Indian cuisines more popular in the top cities of India or any other cuisines are popular in the cities of India? These are a few of the questions to be answered in the notebook. We shall dive deep into the location data and data from Foursquare. This can help us to understand the popular food cuisins in a particular city as well as the similarities between the food cuisines of these this would help the people who are looking to start buinesses like restaurants by providing the information of the food cuisines of the city in which they are setting up the restaurant and also help the top restaurant brands that run a chain of restaurants by providing the similarities in the food cuisines of the cities.
 
 ## Data Description
 
-__India Cities Dataset__
+__India Cities Dataset__\
 The cities are ranked based on the population of the city. The population data is taken from [here](https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population#1_to_25).
 From the wikipedia page the following data is scraped that contains the following features.
 1.City :- Contains the name of the City.\
